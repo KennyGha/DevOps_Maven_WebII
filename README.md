@@ -1,1 +1,3 @@
-# DevOps_Maven_WebII
+# maven-project
+
+Simple Maven Project
